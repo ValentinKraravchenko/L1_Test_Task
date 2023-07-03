@@ -19,5 +19,9 @@ Completed task for the first option. C++
 
 ![image](https://github.com/ValentinKraravchenko/L1_Test_Task/assets/122296291/d1a16b5b-512a-4ef6-8d24-5d8dbd65e99a)
 
+Полученные результаты представленны на графике:
+
+
+![image](https://github.com/ValentinKraravchenko/L1_Test_Task/assets/122296291/57fa404c-cbf6-4727-8483-92db5244e97d)
 
 
