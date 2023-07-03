@@ -24,4 +24,4 @@ Completed task for the first option. C++
 
 ![image](https://github.com/ValentinKraravchenko/L1_Test_Task/assets/122296291/57fa404c-cbf6-4727-8483-92db5244e97d)
 
-Все классы и расчеты написаны на языке C++, на языке Python только отрисовка графика.
+
